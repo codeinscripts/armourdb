@@ -8,4 +8,6 @@ Giriş çıkış yaptığımızda armor gitmiyor artık :D
 
 # Kişisel Discordum Ve Daha Fazla Script İçin
 
-discord.gg/3bUCTQx
+https://discord.gg/3bUCTQx
+
+
